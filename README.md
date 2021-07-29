@@ -13,7 +13,7 @@ npm install webworkpack --save
 First, a `main.js` file will launch the `worker.js` and print its output:
 
 ```js
-import work from 'webworkify-webpack';
+import work from 'webworkpack';
 
 let w = work(require.resolve('./worker.js'));
 w.addEventListener('message', event => {
