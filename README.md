@@ -1,6 +1,11 @@
 # webworkpack
 
+[![npm package](https://nodei.co/npm/webworkpack.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/webworkpack)
+
 > launch a web worker that can require() in the browser with webpack.
+
+[![NPM version](https://img.shields.io/npm/v/webworkpack.svg?style=flat)](https://npmjs.org/package/webworkpack)
+[![NPM Downloads](https://img.shields.io/npm/dm/webworkpack.svg?style=flat)](https://npmjs.org/package/webworkpack)
 
 ## Installation
 
@@ -9,6 +14,10 @@ npm install webworkpack --save
 ```
 
 ## Example
+
+[**demo1**](examples/webworker)
+
+[**demo2**](examples/webworker2)
 
 First, a `main.js` file will launch the `worker.js` and print its output:
 

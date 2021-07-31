@@ -1,5 +1,5 @@
-import forEach from '@ali/iot-cloud-util/es/forEach';
-import forOwn from '@ali/iot-cloud-util/es/forOwn';
+import forEach from 'celia/es/forEach';
+import forOwn from 'celia/es/forOwn';
 
 /* eslint-disable no-undef */
 const __webpack_require__ = arguments[2];
