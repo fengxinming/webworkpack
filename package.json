@@ -10,7 +10,9 @@
     "example:webworker2": "rm -rf examples/webworker2/dist && webpack --config examples/webworker2/webpack.config.js"
   },
   "keywords": [
-    "webworker"
+    "webworkify",
+    "worker",
+    "webpack"
   ],
   "author": "Jesse Feng <fxm0016@126.com>",
   "license": "MIT",
